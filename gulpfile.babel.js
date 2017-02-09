@@ -90,7 +90,9 @@ const SOURCES = [
   'src/layout/layout.js',
   'src/data-table/data-table.js',
   // And finally, the ripples
-  'src/ripple/ripple.js'
+  'src/ripple/ripple.js',
+  // I9 component sources
+  'src/select/select.js'
 ];
 
 // ***** Development tasks ****** //
