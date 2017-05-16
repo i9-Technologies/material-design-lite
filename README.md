@@ -72,11 +72,15 @@ changes.
 ## Want to contribute?
 
 If you found a bug, have any questions or want to contribute. Follow our
-[guidelines](https://github.com/google/material-design-lite/blob/master/CONTRIBUTING.md),
+[guidelines](https://github.com/google/material-design-lite/blob/mdl-1.x/CONTRIBUTING.md),
 and help improve the Material Design Lite. For more information visit our
 [wiki](https://github.com/google/material-design-lite/wiki).
 
 Please use the default branch, `mdl-1.x`.
+
+Take note that [Material Components for Web](https://github.com/material-components/material-components-web), which is MDL v2, is under early Alpha stages (which means everything is a moving target, and we can change anything at any moment). Use with caution.
+
+However, we would absolutely love to have people testing MCW and provide feedback about their experiences using it, especially integrating with other frameworks and libraries.
 
 ## License
 
